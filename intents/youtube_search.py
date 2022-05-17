@@ -10,7 +10,7 @@ import re
 
 
 class YoutubeSearch:
-    DEVELOPER_KEY = "AIzaSyDBkNCCDungBJWGjF9wc-7CvTOEvgjwsWQ"
+    DEVELOPER_KEY = "API KEY"
     YOUTUBE_API_SERVICE_NAME = 'youtube'
     YOUTUBE_VERSION = 'v3'
 
